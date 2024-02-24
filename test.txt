@@ -1,2 +1,2 @@
-this is a test file for understanding git and github
+this is a test file for branches in  git and github
 
